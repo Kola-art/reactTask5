@@ -1,7 +1,11 @@
 .App {
   text-align: center;
 }
-
+.taskNumber{
+  margin-top: 150px;
+  margin: 0 auto;
+ 
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
